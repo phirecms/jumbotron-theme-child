@@ -44,6 +44,9 @@ For example, at the top of a "styles.css" file:
  */
 ```
 
+Once the child theme is installed, you will have to activate it by setting
+it to "active" and saving it.
+
 PARENT THEME REFERENCE
 ======================
 
