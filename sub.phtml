@@ -1,0 +1,20 @@
+<?php include $parentThemePath . '/inc/header.phtml'; ?>
+
+    <div class="container padding-top subheader"></div>
+
+    <div class="container padding-top">
+      <h2 class="h2-child"><?=$title; ?></h2>
+<?php if (isset($content)): ?>
+<?=$content; ?>
+<?php endif; ?>
+
+      <hr class="featurette-divider">
+    </div>
+
+    <div class="container marketing">
+
+<?php include $parentThemePath . '/inc/company.phtml'; ?>
+
+    </div> <!-- /container -->
+
+<?php include $parentThemePath . '/inc/footer.phtml'; ?>

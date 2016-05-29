@@ -1,0 +1,11 @@
+/**
+ * Theme Name: Jumbotron Child Theme
+ * Author: Nick Sagona
+ * Description: This is a child theme based off of the jumbotron theme
+ * Version: 1.0
+ */
+
+.h2-child {
+    font-style: italic;
+    color: #1080bc;
+}
